@@ -30,22 +30,16 @@
 <!-- 単純化や制約を全て列挙する -->
 
 ## システムモデル
-<!-- アプローチセクション以前に登場するシンボルを全て以下の表にまとめる -->
 
-|   Symbols    | Descriptions |
-| :----------: | :----------- |
-| To be filled | To be filled |
+[Symbols](./survey_template_symbols.md#symbols)
 
 <!-- 上記表に書けないモデルを記載 -->
 
 <!-- ##前提と##システムモデルは論文の構成上書きやすい順序でOK -->
 
 ## アプローチ
-<!-- アプローチセクションに登場するシンボルを全て以下の表にまとめる -->
 
-|   Symbols    | Descriptions |
-| :----------: | :----------- |
-| To be filled | To be filled |
+[Symbols](./survey_template_symbols.md#アプローチ)
 
 <!-- 論文の提案の主眼を簡潔にまとめる。この資料を読んで再現実装できるレベルにする。 -->
 
