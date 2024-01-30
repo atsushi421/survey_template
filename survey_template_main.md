@@ -5,7 +5,7 @@
 ## サマリ
 <!--論文の新規性・手法のキモを2~3行で説明-->
 
-### 分類
+### [分類](https://tier4.atlassian.net/wiki/spaces/~6422e65c57f0c028e2f72804/pages/2780268789)
 <!-- [スケジューリング手法の分類法](https://tier4.atlassian.net/wiki/spaces/~6422e65c57f0c028e2f72804/pages/2780268789)に従って以下の表を埋める-->
 
 | Resource     | Properties of tasks | Criterion    |
